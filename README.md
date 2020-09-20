@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Bepari - A Livestock Application
+- 🔭 I’m currently working on Pose Detection Application using Google's TensorFlow Library
 - 🌱 I’m currently learning - Android Coroutine
 - 🤔 I’m looking for help with Android Application
 - 💬 Ask me about anything
