@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Pose Detection Application using Google's TensorFlow Library
-- 🌱 I’m currently learning - Android Coroutine
+- 🔭 I’m currently working on MVVM w/ DI Migration Project
+- 🌱 I’m currently learning - Clean Architectuure
 - 🤔 I’m looking for help with Android Application
 - 💬 Ask me about anything
 - 📫 How to reach me: zobair.shoumik@gmail.com
