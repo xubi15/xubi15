@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MVVM w/ DI Migration Project
-- 🌱 I’m currently learning - Clean Architectuure
+- 🔭 I’m currently working on Architecture Renewal Project with MVVM w/ DI
+- 🌱 I’m currently learning - Clean Architecture
 - 🤔 I’m looking for help with Android Application
 - 💬 Ask me about anything
 - 📫 How to reach me: zobair.shoumik@gmail.com
